@@ -6,7 +6,7 @@
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find me on [Mastodon][0], [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 
 My PGP public key is available on [my website](https://paulmagrath.com) and on [Keybase][3].
 
@@ -17,6 +17,7 @@ My PGP public key is available on [my website](https://paulmagrath.com) and on [
 
 <!-- Links to your social media accounts -->
 
+[0]: https://mastodon.ie/@magrath
 [1]: https://twitter.com/PaulMagrath
 [2]: https://www.linkedin.com/in/magrath/
 [3]: http://keybase.io/magrath
